@@ -2,7 +2,7 @@
 Cytoskeletal strain-stiffening amplifies tissue tension as a unifying regulator of cardiomyocyte contractility
 -----------------------------------------------------------------------------------------------------------------
 
-Running the simulations using the computational cell-tissue model
+Running the simulations using the computational tissue model
 
 Steps to run the simulations are provided here.
 
